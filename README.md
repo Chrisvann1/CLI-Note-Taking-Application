@@ -1,6 +1,6 @@
 # Software-Engineering-Note-Taking-Application
 
-# Noteworthy II: a command line-based note taking application
+# Noteworthy : a command line-based note taking application
 
 ## Welcome!
 
