@@ -37,4 +37,4 @@ Each of the menus will give you a list of several numbered options. Enter the nu
 
 ### Troubleshooting
 
-If the program becomes stuck or you just need to abort and reset it, type CTRL-C; this will forcibly exit the program. If you find an issue or bug, check the project's Github page and consider leaving your feedback if the issue hasn't already been addressed.
+If you find an issue or bug, check the project's Github page and consider leaving your feedback if the issue hasn't already been addressed.
